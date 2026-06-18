@@ -1,0 +1,24 @@
+{
+  "name": "tribe-gg-os",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Tribe GG OS - AI Creator Operating System",
+  "scripts": {
+    "dev": "echo \"Next step: scaffold apps/web with Next.js\"",
+    "build": "echo \"Build scripts pending app scaffold\"",
+    "lint": "echo \"Lint scripts pending app scaffold\"",
+    "typecheck": "echo \"Typecheck scripts pending app scaffold\""
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "keywords": [
+    "creator-tools",
+    "streaming",
+    "ai-workforce",
+    "gaming",
+    "dashboard"
+  ],
+  "license": "UNLICENSED"
+}
